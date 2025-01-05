@@ -14,8 +14,7 @@ There are **different** `index-....js` files imported in `index.html`. Uncomment
 
 # Wormhole
 
-
-<img src="./readmeAssets/wormhole.gif" alt="earth" width="300px">
+<img src="./readmeAssets/wormhole.gif" alt="hole" width="300px">
 
 
 [Earth textures from Planet Pixel Emporium](https://planetpixelemporium.com/earth.html)
