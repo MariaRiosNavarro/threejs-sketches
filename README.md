@@ -1,13 +1,16 @@
 # threejs-sketches
 
+There are **different** `index-....js` files imported in `index.html`. Uncomment the script you want to view and leave the others commented out.Ensure that only one script is uncommented at a time to avoid conflicts. 
 
-There are DIFERENT index.js files imported in index,html, remove the coment the index.js you want to see.
+[YouTube Tutorial](https://www.youtube.com/watch?v=UMqNHi1GDAE&t=11s) on how to get started with Three.js **by** [Bobby Roe](https://github.com/bobbyroe).
 
+# Geometry
 
-[YouTube-Tutorial](https://www.youtube.com/watch?v=UMqNHi1GDAE&t=11s) on how to get started with Three.js FORM [BOBBY ROE](https://github.com/bobbyroe)
+![iso](/readmeAssets/iso.gif)
 
+# Earth
 
 ![earth](/readmeAssets/earth.gif)
 
-[EARTH TEXTURES FROM planetpixelemporium.com](https://planetpixelemporium.com/earth.html)
+[Earth textures from Planet Pixel Emporium](https://planetpixelemporium.com/earth.html)
 
