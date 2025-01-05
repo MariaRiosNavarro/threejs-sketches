@@ -6,11 +6,13 @@ There are **different** `index-....js` files imported in `index.html`. Uncomment
 
 # Geometry
 
-![iso](/readmeAssets/iso.gif)
+<img src="./readmeAssets/iso.gif" alt="iso" width="300px">
 
 # Earth
 
-![earth](/readmeAssets/earth.gif)
+<img src="./readmeAssets/earth.gif" alt="earth" width="300px">
+
+
 
 [Earth textures from Planet Pixel Emporium](https://planetpixelemporium.com/earth.html)
 
